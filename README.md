@@ -7,7 +7,7 @@
 <br><br>
 
 <a href="https://github.com/GuimaSenai?tab=stars">
-<img src="https://img.shields.io/github/stars/GuimaSenai?style=for-the-badge&label=STARS&color=0D1117">
+<img src="https://img.shields.io/github/stars/GuimaSenai?style=for-the-badge&label=ESTRELAS&color=0D1117">
 </a>
 
 <a href="https://github.com/GuimaSenai?tab=repositories">
@@ -15,38 +15,38 @@
 </a>
 
 <a href="https://github.com/GuimaSenai">
-<img src="https://img.shields.io/github/followers/GuimaSenai?style=for-the-badge&label=FOLLOWERS&color=0D1117">
+<img src="https://img.shields.io/github/followers/GuimaSenai?style=for-the-badge&label=SEGUIDORES&color=0D1117">
 </a>
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ==================== SOBRE MIM ==================== -->
 
 <table width="100%">
 <tr>
 
 <td width="60%" valign="middle">
 
-## 👋 About Me
+## 👋 Sobre Mim
 
-Hey! I'm **Guilherme.**
+Olá! Eu sou o **Guilherme.**
 
-I'm a student and developer in training interested in
-**programming, backend development and technology.**
+Sou estudante e desenvolvedor em formação, interessado em
+**programação, desenvolvimento backend e tecnologia.**
 
-I enjoy learning new things, solving problems and
-turning ideas into code.
+Gosto de aprender coisas novas, resolver problemas e
+transformar ideias em código.
 
-I'm currently studying **Development Systems** and
-improving my programming skills every day.
+Atualmente estou estudando **Desenvolvimento de Sistemas**
+e aprimorando minhas habilidades em programação todos os dias.
 
 <br>
 
-> 💻 Learning by building  
-> 🧠 Always curious  
-> 🚀 Always improving
+> 💻 Aprendendo na prática  
+> 🧠 Sempre curioso  
+> 🚀 Sempre evoluindo
 
 </td>
 
@@ -61,11 +61,11 @@ improving my programming skills every day.
 
 ---
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
+<!-- ==================== ESTUDANDO ATUALMENTE ==================== -->
 
 <div align="center">
 
-## 🧠 Currently Learning
+## 🧠 Estudando Atualmente
 
 </div>
 
@@ -85,7 +85,7 @@ improving my programming skills every day.
 
 <td width="50%" valign="top">
 
-### 💻 Programming
+### 💻 Programação
 
 - 🐍 Python
 - 🐘 PHP
@@ -96,12 +96,12 @@ improving my programming skills every day.
 
 <td width="50%" valign="top">
 
-### 🚀 Development
+### 🚀 Desenvolvimento
 
 - 🔧 Git & GitHub
-- 🖥️ Backend Development
+- 🖥️ Desenvolvimento Backend
 - 🐧 Linux
-- 🧩 Problem Solving
+- 🧩 Resolução de Problemas
 
 </td>
 
@@ -115,11 +115,11 @@ improving my programming skills every day.
 
 ---
 
-<!-- ==================== WHAT I KNOW ==================== -->
+<!-- ==================== O QUE EU SEI ==================== -->
 
 <div align="center">
 
-## ⚡ What I Know
+## ⚡ O Que Eu Sei
 
 <br>
 
@@ -131,17 +131,17 @@ improving my programming skills every day.
 
 <br><br>
 
-> 🧠 **Always learning. Always improving.**
+> 🧠 **Sempre aprendendo. Sempre evoluindo.**
 
 </div>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ==================== TECNOLOGIAS ==================== -->
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 <br>
 
@@ -151,11 +151,11 @@ improving my programming skills every day.
 
 ---
 
-<!-- ==================== CONNECT WITH ME ==================== -->
+<!-- ==================== FALE COMIGO ==================== -->
 
 <div align="center">
 
-## 🤝 Connect With Me
+## 🤝 Entre em Contato
 
 <br>
 
@@ -175,11 +175,11 @@ improving my programming skills every day.
 
 ---
 
-<!-- ==================== CONTRIBUTION ==================== -->
+<!-- ==================== CONTRIBUIÇÕES ==================== -->
 
 <div align="center">
 
-## 📊 Contribution
+## 📊 Contribuições
 
 <br>
 
@@ -191,6 +191,6 @@ improving my programming skills every day.
 
 <div align="center">
 
-### 💻 Keep coding. Keep learning. Keep building.
+### 💻 Continue programando. Continue aprendendo. Continue criando.
 
 </div>
