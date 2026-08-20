@@ -47,6 +47,50 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 <div align="center">
 
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="60%">
+
+## 👋 About Me
+
+Hey! I'm **Guilherme.**
+
+I'm a student and developer in training interested in
+**programming, backend development and technology.**
+
+I'm currently learning and improving my skills with:
+
+* 🐍 Python
+* 🐘 PHP
+* 🗄️ MySQL / SQL
+* 🌐 HTML & CSS
+* 🔧 Git & GitHub
+* 🐧 Linux
+* 🎮 Valorant
+
+I enjoy learning new things, solving problems and turning ideas into code.
+
+</td>
+
+<td width="80%" align="center">
+
+<img src="rico.jpg" width="350px">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,git,github,vscode,linux&theme=dark">
