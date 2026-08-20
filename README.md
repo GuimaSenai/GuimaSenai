@@ -72,6 +72,11 @@ improving my programming skills every day.
 <table>
 <tr>
 
+<td width="65%" valign="top">
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
 ### 💻 Programming
@@ -97,10 +102,18 @@ improving my programming skills every day.
 </tr>
 </table>
 
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="rico.jpg" width="250px">
+
+</td>
+
+</tr>
+</table>
+
 ---
-
-<!-- ==================== WHAT I KNOW ==================== -->
-
 <div align="center">
 
 ## ⚡ What I Know
