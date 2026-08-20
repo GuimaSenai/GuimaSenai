@@ -1,5 +1,78 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">Software Developer</h3>
+<div align="center">
+
+# JOAO OTAVIO
+
+### `Backend Developer` • `Student`
 
 </div>
 
+---
+
+<table>
+<tr>
+
+<td width="60%">
+
+## 👋 About Me
+
+Hey! I'm **Joao Otavio.**
+
+I'm a student and developer in training interested in
+**programming, backend development and technology.**
+
+I'm currently learning and improving my skills with:
+
+* 🐍 Python
+* 🐘 PHP
+* 🗄️ MySQL / SQL
+* 🌐 HTML & CSS
+* 🔧 Git & GitHub
+* 🐧 Linux
+* 🎮 Valorant
+
+I enjoy learning new things, solving problems and turning ideas into code.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="download.jpg" width="350px">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,git,github,vscode,linux&theme=dark">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://instagram.com/jj_joaootavio10">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:joao.senairamos@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
