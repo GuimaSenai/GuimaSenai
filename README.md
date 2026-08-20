@@ -62,7 +62,7 @@ e aprimorando minhas habilidades em programação todos os dias.
 ---
 
 <!-- ==================== ESTUDANDO ATUALMENTE ==================== -->
-
+<center>
 <div align="center">
 
 ## 🧠 Estudando Atualmente
@@ -73,6 +73,8 @@ e aprimorando minhas habilidades em programação todos os dias.
 <tr>
 
 <td width="40%" align="center" valign="middle">
+  
+<div align="center">
 
 <img src="novin3.jpg" width="200px">
 
@@ -114,7 +116,7 @@ e aprimorando minhas habilidades em programação todos os dias.
 </table>
 
 ---
-
+</center>
 <!-- ==================== O QUE EU SEI ==================== -->
 
 <div align="center">
