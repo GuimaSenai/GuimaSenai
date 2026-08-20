@@ -52,7 +52,7 @@ e aprimorando minhas habilidades em programação todos os dias.
 
 <td width="40%" align="center" valign="middle">
 
-<img src="novin2.jpg" width="300px">
+<img src="novin2.png" width="300px">
 
 </td>
 
