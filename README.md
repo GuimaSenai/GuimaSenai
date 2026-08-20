@@ -52,7 +52,7 @@ e aprimorando minhas habilidades em programação todos os dias.
 
 <td width="40%" align="center" valign="middle">
 
-<img src="rico.jpg" width="300px">
+<img src="novin2.jpg" width="300px">
 
 </td>
 
@@ -74,7 +74,7 @@ e aprimorando minhas habilidades em programação todos os dias.
 
 <td width="40%" align="center" valign="middle">
 
-<img src="rico.jpg" width="300px">
+<img src="novin3.jpg" width="300px">
 
 </td>
 
