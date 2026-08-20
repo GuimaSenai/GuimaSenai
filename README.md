@@ -1,5 +1,7 @@
 <div align="center">
 
+<div align="center">
+
 <!-- ==================== BANNER ==================== -->
 
 <img src="taonovin.jpg" width="100%">
@@ -11,7 +13,7 @@
 </a>
 
 <a href="https://github.com/GuimaSenai?tab=repositories">
-<img src="https://img.shields.io/github/forks/GuimaSenai?style=for-the-badge&label=FORKS&color=0D1117">
+<img src="https://img.shields.io/badge/REPOSITÓRIOS-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/GuimaSenai">
@@ -19,9 +21,6 @@
 </a>
 
 </div>
-
----
-
 <!-- ==================== SOBRE MIM ==================== -->
 
 <table width="100%">
