@@ -36,7 +36,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 <td width="40%" align="center">
 
-<img src="freefire" width="350px">
+<img src="freefire.jpg" width="350px">
 
 </td>
 
