@@ -36,7 +36,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 <td width="40%" align="center">
 
-<img src="download.jpg" width="350px">
+<img src="Sonic rizz" width="350px">
 
 </td>
 
@@ -59,15 +59,15 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 ## 🤝 Connect With Me
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/GuimaSenai">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://instagram.com/jj_joaootavio10">
+<a href="https://instagram.com/7Guima">
 <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:joao.senairamos@gmail.com">
+<a href="mailto:guilherme.senai200@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
