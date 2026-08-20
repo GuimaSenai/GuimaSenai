@@ -24,10 +24,10 @@
 
 <!-- ==================== ABOUT ME ==================== -->
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="60%" valign="top">
+<td width="60%" valign="middle">
 
 ## 👋 About Me
 
@@ -50,7 +50,7 @@ improving my programming skills every day.
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
 <img src="rico.jpg" width="300px">
 
@@ -72,15 +72,13 @@ improving my programming skills every day.
 <table width="100%">
 <tr>
 
-<!-- FOTO NO EXTREMO ESQUERDO -->
-<td width="30%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="rico.jpg" width="250px">
+<img src="rico.jpg" width="300px">
 
 </td>
 
-<!-- CONTEÚDO NA DIREITA -->
-<td width="70%" valign="top">
+<td width="60%" valign="middle">
 
 <table width="100%">
 <tr>
@@ -117,30 +115,23 @@ improving my programming skills every day.
 
 ---
 
-</tr>
-</table>
+<!-- ==================== WHAT I KNOW ==================== -->
 
----
 <div align="center">
 
 ## ⚡ What I Know
 
-</div>
-
-<div align="center">
+<br>
 
 `🐍 Python` • `🐘 PHP` • `🗄️ MySQL` • `🌐 HTML` • `🎨 CSS`
 
 `🔧 Git` • `🐙 GitHub` • `🐧 Linux` • `💻 Windows`
 
-</div>
+`⚡ ESP32` • `🟢 Node.js` • `🗃️ SQLite` • `💻 VS Code`
 
-<br>
+<br><br>
 
-<div align="center">
-
-> "I don't need to know everything.  
-> I just need to keep learning."
+> 🧠 **Always learning. Always improving.**
 
 </div>
 
@@ -154,13 +145,13 @@ improving my programming skills every day.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,git,github,vscode,linux&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,git,github,vscode,linux,nodejs,arduino&theme=dark">
 
 </div>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+<!-- ==================== CONNECT WITH ME ==================== -->
 
 <div align="center">
 
