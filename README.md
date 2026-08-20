@@ -69,12 +69,20 @@ improving my programming skills every day.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<!-- FOTO NO EXTREMO ESQUERDO -->
+<td width="30%" align="center" valign="middle">
 
-<table>
+<img src="rico.jpg" width="250px">
+
+</td>
+
+<!-- CONTEÚDO NA DIREITA -->
+<td width="70%" valign="top">
+
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -104,11 +112,10 @@ improving my programming skills every day.
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+</tr>
+</table>
 
-<img src="rico.jpg" width="250px">
-
-</td>
+---
 
 </tr>
 </table>
