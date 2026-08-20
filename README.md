@@ -1,6 +1,6 @@
 <div align="center">
 
-# JOAO OTAVIO
+# Guilherme
 
 ### `Backend Developer` • `Student`
 
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Joao Otavio.**
+Hey! I'm **Guilherme.**
 
 I'm a student and developer in training interested in
 **programming, backend development and technology.**
